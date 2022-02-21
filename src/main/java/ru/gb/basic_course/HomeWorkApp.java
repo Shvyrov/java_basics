@@ -1,4 +1,4 @@
-package ru.gb.lesson1;
+package ru.gb.basic_course;
 
 import static java.lang.System.out;
 
